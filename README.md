@@ -1,9 +1,4 @@
-Name - Sakshi Kumari
-Company - CODTECH IT SOLUTIONS
-ID - CT12DS1342
-Domain - WEB DEVELOPMENT
-Duration - 1st JUNE 2024 to 30th JUNE 2024
-Mentor - Mujbain Mohammad 
+Name - Sakshi Kumari  Company - CODTECH IT SOLUTIONSID - CT12DS1342  Domain - WEB DEVELOPMENT  Duration - 1st JUNE 2024 to 30th JUNE 2024  Mentor - Mujbain Mohammad 
 
 OVERVIEW OF THE PROJECT
 PROJECT: TO - DO LIST WEB APPLICATION
