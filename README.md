@@ -6,6 +6,11 @@ Duration - 1st JUNE 2024 to 30th JUNE 2024
 Mentor - Mujbain Mohammad 
 
 OVERVIEW OF THE PROJECT
+PROJECT: TO - DO LIST WEB APPLICATION
+
+
+![Screenshot (27)](https://github.com/sakshiiie12/CODTECH---Task-1/assets/171537924/2a9979d0-e9ff-4fac-b5ff-e1346d16e26d)
+
 The objective of a to-do list web application is to provide users with a simple, efficient, and organized way to manage their tasks and activities. Here are some key objectives:
 
 1. Task Management: Enable users to add, edit, and delete tasks easily, helping them keep track of what needs to be done.
