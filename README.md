@@ -8,7 +8,7 @@ OVERVIEW OF THE PROJECT
 PROJECT: TO - DO LIST WEB APPLICATION
 
 
-![Screenshot (27)](https://github.com/sakshiiie12/CODTECH---Task-1/assets/171537924/2a9979d0-e9ff-4fac-b5ff-e1346d16e26d)
+
 
 The objective of a to-do list web application is to provide users with a simple, efficient, and organized way to manage their tasks and activities. Here are some key objectives:
 
